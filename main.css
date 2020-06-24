@@ -2,6 +2,11 @@ html
 {
     scroll-behavior: smooth;
 }
+.btn
+{
+background-color:red;
+}
+
 /* social media bar */
 .icons
 {
